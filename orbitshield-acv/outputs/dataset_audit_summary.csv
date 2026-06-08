@@ -1,0 +1,4 @@
+class_name,files_found,valid_images,broken_images,exact_duplicate_groups,approx_duplicate_pairs,small_images,low_variance_images
+rocket,299,299,0,0,1,0,0
+satellite,287,287,0,0,16,0,0
+space_shuttle,299,299,0,0,0,0,0

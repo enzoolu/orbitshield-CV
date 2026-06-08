@@ -1,0 +1,10 @@
+               precision    recall  f1-score   support
+
+       rocket       0.91      0.85      0.88       180
+    satellite       0.90      0.90      0.90       178
+space_shuttle       0.87      0.93      0.90       180
+
+     accuracy                           0.89       538
+    macro avg       0.89      0.89      0.89       538
+ weighted avg       0.89      0.89      0.89       538
+

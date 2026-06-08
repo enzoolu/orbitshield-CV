@@ -1,0 +1,7 @@
+class_name,source_type,count
+rocket,real,299
+rocket,synthetic,900
+satellite,real,287
+satellite,synthetic,900
+space_shuttle,real,299
+space_shuttle,synthetic,900

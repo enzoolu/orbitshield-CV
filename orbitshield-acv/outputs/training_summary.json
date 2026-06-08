@@ -1,0 +1,81 @@
+{
+  "class_names": [
+    "rocket",
+    "satellite",
+    "space_shuttle"
+  ],
+  "class_counts": {
+    "test": {
+      "rocket": 180,
+      "satellite": 178,
+      "space_shuttle": 180
+    },
+    "train": {
+      "rocket": 839,
+      "satellite": 831,
+      "space_shuttle": 839
+    },
+    "val": {
+      "rocket": 180,
+      "satellite": 178,
+      "space_shuttle": 180
+    }
+  },
+  "dataset_source_counts": [
+    {
+      "class_name": "rocket",
+      "source_type": "real",
+      "count": 299
+    },
+    {
+      "class_name": "rocket",
+      "source_type": "synthetic",
+      "count": 900
+    },
+    {
+      "class_name": "satellite",
+      "source_type": "real",
+      "count": 287
+    },
+    {
+      "class_name": "satellite",
+      "source_type": "synthetic",
+      "count": 900
+    },
+    {
+      "class_name": "space_shuttle",
+      "source_type": "real",
+      "count": 299
+    },
+    {
+      "class_name": "space_shuttle",
+      "source_type": "synthetic",
+      "count": 900
+    }
+  ],
+  "best_model": "SimpleCNN",
+  "results": [
+    {
+      "model_name": "SimpleCNN",
+      "model_path": "C:\\Users\\enzoo\\PycharmProjects\\orbitshield-CV\\orbitshield-acv\\models\\simple_cnn.keras",
+      "test_loss": 0.22745385766029358,
+      "test_accuracy": 0.8996282815933228,
+      "precision_macro": 0.9000833785130955,
+      "recall_macro": 0.8997086974615064,
+      "f1_macro": 0.8995876919078999,
+      "meets_reference_88": true,
+      "selected_best": true
+    },
+    {
+      "model_name": "DeepCNN",
+      "model_path": "C:\\Users\\enzoo\\PycharmProjects\\orbitshield-CV\\orbitshield-acv\\models\\deep_cnn.keras",
+      "test_loss": 0.38813894987106323,
+      "test_accuracy": 0.8940520286560059,
+      "precision_macro": 0.8947217918492246,
+      "recall_macro": 0.8940907199334166,
+      "f1_macro": 0.8938515849156689,
+      "meets_reference_88": true,
+      "selected_best": false
+    }
+  ]
+}

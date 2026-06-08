@@ -1,0 +1,4 @@
+split,rocket_real,rocket_synthetic,satellite_real,satellite_synthetic,space_shuttle_real,space_shuttle_synthetic
+test,45,135,43,135,45,135
+train,209,630,201,630,209,630
+val,45,135,43,135,45,135

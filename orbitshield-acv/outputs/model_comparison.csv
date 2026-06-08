@@ -1,0 +1,3 @@
+model_name,model_path,test_loss,test_accuracy,precision_macro,recall_macro,f1_macro,meets_reference_88,selected_best
+SimpleCNN,C:\Users\enzoo\PycharmProjects\orbitshield-CV\orbitshield-acv\models\simple_cnn.keras,0.22745385766029358,0.8996282815933228,0.9000833785130955,0.8997086974615064,0.8995876919078999,True,True
+DeepCNN,C:\Users\enzoo\PycharmProjects\orbitshield-CV\orbitshield-acv\models\deep_cnn.keras,0.38813894987106323,0.8940520286560059,0.8947217918492246,0.8940907199334166,0.8938515849156689,True,False

@@ -1,0 +1,13 @@
+﻿.venv/
+.idea/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+*.log
+orbitshield-acv/CHECKLIST_CRITERIOS.md
+orbitshield-acv/dataset/backup/
+orbitshield-acv/dataset/processed/
+orbitshield-acv/dataset/raw/
+orbitshield-acv/dataset/synthetic/
