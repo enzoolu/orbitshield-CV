@@ -377,6 +377,9 @@ orbitshield-acv/
 
 - Vídeo da entrega: `COLOCAR_LINK_VIDEO_AQUI`
 
+## Linkd do app
+- https://orbitshield-cv.streamlit.app/
+
 ## Integrantes
 
 | Nome | RM |
