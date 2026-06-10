@@ -375,10 +375,10 @@ orbitshield-acv/
 
 ## Vídeo
 
-- Vídeo da entrega: `COLOCAR_LINK_VIDEO_AQUI`
+- Vídeo da entrega: `https://youtu.be/eKGgxF-r9sU`
 
-## Linkd do app
-- https://orbitshield-cv.streamlit.app/
+## Link do App
+`https://orbitshield-cv.streamlit.app/`
 
 ## Integrantes
 
